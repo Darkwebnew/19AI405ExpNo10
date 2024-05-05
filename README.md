@@ -1,5 +1,5 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-## Date:
+## Date:13-05-2024
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
